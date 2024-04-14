@@ -1,5 +1,5 @@
 # Rahman Islam - 411211069 - Pemrograman Android
-## Aplikasi Lemonade | dari base project starter
+## Aplikasi Lemonade | dari base project starter sisa nya di koding
 aplikasi meras lemon.
 <center>
   <table>
